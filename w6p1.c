@@ -1,12 +1,4 @@
-/*
-	==================================================
-	Workshop #6 (Part-1):
-	==================================================
-	Name   : Nasim Khodapanah
-	ID     : 131929200
-	Email  : nkhodapanah@myseneca.ca
-	Section: NGG 
-*/
+
 
 #define _CRT_SECURE_NO_WARNINGS
 
